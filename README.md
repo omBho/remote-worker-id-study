@@ -2,4 +2,4 @@
 repository buat belajar remote-worker-id.
 semoga lancar
 
-ini nambahin aj
+ini nambahin aja
