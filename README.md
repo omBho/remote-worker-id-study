@@ -1,2 +1,3 @@
 # remote-worker-id-study
-repository buat belajar remote-worker-id
+repository buat belajar remote-worker-id.
+semoga lancar
